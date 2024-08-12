@@ -7,7 +7,7 @@
 ## Tecnologias que eu uso no meu dia
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicx074&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicx074)](https://github.com//github-readme-stats)
 
 <div style="display: inline_block"><br/>
 <img align="center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
