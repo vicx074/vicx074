@@ -24,4 +24,4 @@ Atualmente, estou estudando Sistemas de Informação no IFBA, onde tenho a oport
 ## E-mail pra contato
 - [victororg22@gmail.com](mailto:victororg22@gmail.com)
 
-- ![snake gif](https://github.com/vicx074/vicx074/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vicx074/vicx074/blob/output/github-contribution-grid-snake.gif)
