@@ -6,7 +6,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicx074&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicx074)](https://github.com//github-readme-stats)
 
 <div style="display: inline_block"><br/>
