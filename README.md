@@ -1,5 +1,5 @@
 
-### <h1>Olá! Eu sou Victor Eduardo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">👨🏼‍💻</h1>
+### <h1>Olá! Eu sou Victor Eduardo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">👨🏼‍💻</h1>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicx074&show_icons=true&theme=radical)<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-eduardo-pereira-morais-110691267/)
