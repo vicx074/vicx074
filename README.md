@@ -1,12 +1,9 @@
 
 ### <h1>Olá! Eu sou Victor Eduardo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">👨🏼‍💻</h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicx074&show_icons=true&theme=radical)<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-eduardo-pereira-morais-110691267/)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Vicx-the-looper)
 
 ## <h2>Tecnologias que eu uso no meu dia ⚙️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicx074)](https://github.com//github-readme-stats)
 
 <div style="display: inline_block"><br/>
 <img align="center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,8 +17,8 @@
 
  </div>
 <h2>Sobre mim🙋🏼‍♂️</h2>
- Sou apaixonado por tecnologia e estou sempre em busca de novas inovações e soluções criativas.<br>
-Atualmente, estou estudando Sistemas de Informação no IFBA, onde tenho a oportunidade de aprofundar meus conhecimentos e desenvolver habilidades valiosas no campo da tecnologia. 
+ Sou apaixonado por tecnologia e estou sempre em busca de inovações e soluções criativas. <br>
+ Atualmente, curso Sistemas de Informação no IFBA, onde venho aprofundando meus conhecimentos na área de tecnologia. Paralelamente, atuo como analista de dados e desenvolvedor fullstack na Pirelli, onde aplico minhas habilidades em desenvolvimento de sistemas, análise de dados e soluções tecnológicas para otimizar processos e gerar valor para a empresa.
 🖥️🏃🏼
 
 ## E-mail pra contato📧
