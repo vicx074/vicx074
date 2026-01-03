@@ -24,7 +24,7 @@ Sou estudante de **Sistemas de Informação no IFBA** (2024 — 2028) e apaixona
 
 - 🎓 **IFBA:** Sistemas de Informação ![IFBA](https://img.shields.io/badge/IFBA-006600?style=flat-square&logo=google-classroom&logoColor=white) 
 
-- 🎯 **Foco:** Desenvolvimento Fullstack & Engenharia de Dados.
+- 🎯 **Foco:** Desenvolvimento Fullstack & Analise de Dados.
 
 - 🚀 **Mindset:** Automação, performance e inovação constante.
 
