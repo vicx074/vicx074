@@ -87,9 +87,3 @@ Sou estudante de **Sistemas de Informação no IFBA** (2024 — 2028) e apaixona
 
 
 ---
-
-Estou sempre em busca de novos desafios e parcerias em projetos inovadores!
-
-- 📩 **E-mail:** [victororg22@gmail.com](mailto:victororg22@gmail.com)
-
-- 💼 **LinkedIn:** [Victor Eduardo](https://www.linkedin.com/in/victor-eduardo-pereira-morais-110691267/)
