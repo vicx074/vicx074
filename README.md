@@ -15,7 +15,7 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-Sou estudante de **Sistemas de Informação no IFBA** e atualmente atuo como **Desenvolvedor Front-End Júnior na Motopel Honda**. Transformo dados em soluções inteligentes e foco em performance, automação e na criação de interfaces modernas. Também atuo como cofundador da equipe freelancer **Logic Flow**.
+Sou estudante de **Sistemas de Informação no IFBA** e atualmente atuo como **Desenvolvedor Front-End Júnior na Motopel Honda**. Transformo dados em soluções inteligentes e foco em performance, automação e na criação de interfaces modernas.
 
 - 🎓 **Educação:** Sistemas de Informação (IFBA)
 - 💼 **Atual:** Desenvolvedor Front-End Jr @ Motopel Honda (Ex-Pirelli)
