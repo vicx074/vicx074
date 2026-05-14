@@ -18,6 +18,7 @@
 - ⚡ Apaixonado por performance, automação e interfaces modernas
 
 <br clear="right"/>
+<br/>
 
 ---
 
