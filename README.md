@@ -1,51 +1,71 @@
-# Olá, eu sou o Victor Eduardo! 👋
+<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Desenvolvedor%20Front-End%20Júnior;Estudante%20de%20Sistemas%20de%20Informação;Apaixonado%20por%20Inovação" alt="Typing SVG" />
-  </a>
-</div>
+<h1>Olá, eu sou o Victor Eduardo! 👋</h1>
 
-<div align="center">
-  <a href="mailto:victororg22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/victoreduardopereiramorais/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
+<p>
+  <a href="mailto:victororg22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/victoreduardopereiramorais/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
----
+<br/>
 
 ## 👨🏻‍💻 Sobre Mim
 
-Sou estudante de **Sistemas de Informação no IFBA** e atualmente atuo como **Desenvolvedor Front-End Júnior na Motopel Honda**. Transformo dados em soluções inteligentes e foco em performance, automação e na criação de interfaces modernas.
+- 🎓 Estudante de **Sistemas de Informação** no **IFBA**
+- 💼 **Desenvolvedor Front-End Júnior** @ Motopel Honda *(ex-Pirelli)*
+- 🚀 Foco em **React**, **Angular**, **Vite** e soluções **Fullstack com Python**
+- 🌱 Sempre aprendendo e explorando novas tecnologias
+- ⚡ Apaixonado por performance, automação e interfaces modernas
 
-- 🎓 **Educação:** Sistemas de Informação (IFBA)
-- 💼 **Atual:** Desenvolvedor Front-End Jr @ Motopel Honda (Ex-Pirelli)
-- 🚀 **Foco:** React, Angular, Vite e soluções Fullstack em Python.
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-<div align="center">
-  <h3>Frontend & Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=react,angular,vite,ts,js,html,css" />
-  
-  <h3>Backend & Data</h3>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,git" />
-</div>
+<h3>Frontend & Mobile</h3>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<h3>Backend & Dados</h3>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicx074&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicx074&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vicx074&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicx074&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicx074&layout=compact&theme=tokyonight&hide_border=true" height="130" />
+</div>
 
-## 🐍 Activity Graph
+---
+
+## 🐍 Contribuições
 
 <div align="center">
   <img src="https://github.com/vicx074/vicx074/blob/output/github-contribution-grid-snake.gif" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vicx074&color=007ACC&style=flat-square&label=Visitantes" />
 </div>
