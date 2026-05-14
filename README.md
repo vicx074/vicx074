@@ -48,12 +48,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicx074&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
   <img src="https://streak-stats.demolab.com?user=vicx074&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicx074&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="130" />
 </div>
 
 ---
