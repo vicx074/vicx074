@@ -46,14 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vicx074&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" />
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
