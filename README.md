@@ -12,7 +12,7 @@
 ## 👨🏻‍💻 Sobre Mim
 
 - 🎓 Estudante de **Sistemas de Informação** no **IFBA**
-- 💼 **Desenvolvedor Front-End Júnior** @ Motopel Honda *(ex-Pirelli)*
+- 💼 **Desenvolvedor Júnior** @ Motopel Honda *(ex-Pirelli)*
 - 🚀 Foco em **React**, **Angular**, **Vite** e soluções **Fullstack com Python**
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - ⚡ Apaixonado por performance, automação e interfaces modernas
