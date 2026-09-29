@@ -17,43 +17,21 @@
 
 ---
 
-## `~/profile.json`
+## `~/victor.config.ts`
 
-```json
-{
-  "name": "Victor Eduardo",
-  "role": "Full Stack Developer",
-  "company": "GeoSapiens",
-  "education": "Sistemas de Informação @ IFBA",
+```ts
+export const victor = {
+  role: "Full Stack Developer",
+  company: "GeoSapiens",
+  education: "Sistemas de Informação @ IFBA",
 
-  "strongest": [
-    "Python",
-    "React",
-    "TypeScript",
-    "PostgreSQL"
-  ],
+  strongest: ["Python", "React", "TypeScript", "PostgreSQL"],
+  backend: ["FastAPI", "Flask", "Django", "Node.js"],
+  shippingWith: ["Java", "Spring", "React", "Maven"],
 
-  "backend": [
-    "FastAPI",
-    "Flask",
-    "Django",
-    "Node.js"
-  ],
-
-  "currentlyWorkingWith": [
-    "Java",
-    "Spring",
-    "React",
-    "Maven"
-  ],
-
-  "iLikeBuilding": [
-    "Web applications",
-    "REST APIs",
-    "Automations",
-    "Internal tools"
-  ]
-}
+  building: ["Web Apps", "REST APIs", "Automations", "Internal Tools"],
+  mindset: "build → test → ship → improve",
+};
 ```
 
 ---
@@ -61,13 +39,11 @@
 ## `git log --career --graph`
 
 ```mermaid
-flowchart LR
-    A["🎨 2024<br/><b>CEPEDI</b><br/>Front-End + UX/UI"]
-    B["🏎️ 2025 → 2026<br/><b>Pirelli</b><br/>Front-End + Data"]
-    C["🏍️ 2026<br/><b>Motopel Honda</b><br/>Software Developer"]
-    D["🚀 2026 → now<br/><b>GeoSapiens</b><br/>Full Stack Developer"]
-
-    A --> B --> C --> D
+gitGraph LR:
+    commit id: "CEPEDI" tag: "2024 · Front-End + UX/UI"
+    commit id: "Pirelli" tag: "2025–2026 · Front-End + Data"
+    commit id: "Motopel Honda" tag: "2026 · Software Developer"
+    commit id: "GeoSapiens" tag: "2026–now · Full Stack Developer"
 ```
 
 <details open>
@@ -75,7 +51,7 @@ flowchart LR
 
 <br/>
 
-Desenvolvimento e manutenção de aplicações web atuando entre **frontend e backend**, com foco em implementação de funcionalidades, correção de bugs, testes e manutenção de sistemas.
+Desenvolvimento e manutenção de aplicações web atuando entre **frontend e backend**, com foco em implementação de funcionalidades, correção de bugs, testes e evolução de sistemas.
 
 `Java` `Spring` `React` `TypeScript` `PostgreSQL` `Maven`
 
@@ -97,14 +73,14 @@ Desenvolvimento de aplicações e soluções web voltadas para **automação, in
 
 <br/>
 
-Atuação no desenvolvimento de aplicações web e soluções orientadas a dados para otimização de processos operacionais e administrativos.
+Desenvolvimento de aplicações web e soluções orientadas a dados para otimização de processos operacionais e administrativos.
 
-- Desenvolvimento de aplicações web do zero com Python, Flask, React, Angular e PostgreSQL
-- Extração, transformação e visualização de dados industriais com Python, Pandas e PostgreSQL
-- Criação de dashboards e relatórios estratégicos
+- Aplicações web com **Python, Flask, React, Angular e PostgreSQL**
+- Extração, transformação e visualização de dados com **Python, Pandas e PostgreSQL**
+- Dashboards e relatórios estratégicos
 - Manutenção e refatoração de sistemas internos
-- Prototipação de interfaces e fluxos no Figma
-- Participação em ambiente ágil com Scrum
+- Prototipação de interfaces e fluxos no **Figma**
+- Atuação em ambiente ágil com **Scrum**
 - Apoio e treinamento técnico de novos estagiários
 
 `Python` `Pandas` `Flask` `React` `Angular` `TypeScript` `PostgreSQL` `Figma` `Qlik Sense` `Scrum`
@@ -116,7 +92,7 @@ Atuação no desenvolvimento de aplicações web e soluções orientadas a dados
 
 <br/>
 
-Residência em desenvolvimento de software com foco em **Frontend, UX/UI e construção de interfaces**, trabalhando experiência do usuário, prototipação e desenvolvimento de soluções digitais.
+Residência em desenvolvimento de software com foco em **Frontend, UX/UI e construção de interfaces**, explorando experiência do usuário, prototipação e desenvolvimento de soluções digitais.
 
 `Frontend` `UX/UI` `Figma` `JavaScript` `React`
 
@@ -128,42 +104,26 @@ Residência em desenvolvimento de software com foco em **Frontend, UX/UI e const
 
 <div align="center">
 
-### Main stack
-
-<img src="https://skillicons.dev/icons?i=python,react,ts,js,postgres&theme=dark" alt="Main stack" />
-
-<br/><br/>
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs&theme=dark" alt="Backend stack" />
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,vite,html,css&theme=dark" alt="Frontend stack" />
-
-<br/><br/>
-
-### Currently working with
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Current stack" />
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=python,react,ts,js,postgres,fastapi,django,flask,nodejs,angular,vite,html,css,java,spring,maven,git,github,vscode,postman,figma&theme=dark&perline=11" alt="Tech stack" />
 
 </div>
+
+<br/>
+
+```txt
+CORE       Python · React · TypeScript · PostgreSQL
+BACKEND    FastAPI · Flask · Django · Node.js
+FRONTEND   React · Angular · Vite · HTML · CSS
+CURRENT    Java · Spring · Maven
+TOOLS      Git · GitHub · VS Code · Postman · Figma
+```
 
 ---
 
 ## `cat focus.txt`
 
-```text
-01  Build useful products, not just features.
+```txt
+01  Build useful products — not just features.
 02  Keep interfaces simple and systems maintainable.
 03  Automate repetitive work whenever it makes sense.
 04  Learn deeply enough to understand why the code works.
