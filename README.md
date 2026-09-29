@@ -1,20 +1,26 @@
 <div align="center">
+  <h1>Victor Eduardo</h1>
+  <h3>Full Stack Developer</h3>
 
-Victor Eduardo
-Full Stack Developer | Python · React · TypeScript
-Desenvolvendo aplicações web, APIs e soluções Full Stack.
+  <p>
+    Python • React • TypeScript • PostgreSQL
+  </p>
 
-<a href="mailto:victororg22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/victoreduardopereiramorais/">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <p>
+    <a href="mailto:victororg22@gmail.com">
+      <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/victoreduardopereiramorais/">
+      <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
 </div>
 
+---
 
-> about_me
+## About me
+
+```ts
 const victor = {
   role: "Full Stack Developer",
   company: "GeoSapiens",
@@ -24,7 +30,7 @@ const victor = {
     institution: "IFBA",
   },
 
-  mainStack: [
+  strongestStack: [
     "Python",
     "React",
     "TypeScript",
@@ -32,7 +38,6 @@ const victor = {
   ],
 
   backend: [
-    "Python",
     "FastAPI",
     "Django",
     "Flask",
@@ -48,81 +53,73 @@ const victor = {
   interests: [
     "Backend Development",
     "REST APIs",
-    "Software Architecture",
     "Automation",
     "Performance",
     "Clean Code",
   ],
-
-  currentlyLearning: [
-    "Java",
-    "Spring",
-  ],
 };
-> experience
-💼 Full Stack Developer — GeoSapiens
-Atuação no desenvolvimento e manutenção de aplicações web, trabalhando no frontend e backend, correção de bugs, implementação de funcionalidades e testes.
-Java · Spring · React · TypeScript · PostgreSQL · Maven
+```
 
-💼 Software Developer — Motopel Honda
-Experiência no desenvolvimento de aplicações e soluções web, com foco em automação, interfaces e sistemas internos.
-Python · React · Angular · JavaScript
-> technologies
-Main Stack
+## Tech stack
+
+### Core
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,react,ts,js,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,react,ts,js,postgres&theme=dark" alt="Core stack"/>
 </p>
 
-Backend
+### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs&theme=dark" alt="Backend stack"/>
 </p>
 
-Frontend
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,vite,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,vite,html,css&theme=dark" alt="Frontend stack"/>
 </p>
 
-Currently Working With
+### Currently working with
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Current stack"/>
 </p>
 
-Tools
+### Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools"/>
 </p>
 
-> github_stats
+---
+
+## Experience
+
+### GeoSapiens — Full Stack Developer
+
+Atuação no desenvolvimento e manutenção de aplicações web, trabalhando em frontend e backend, implementação de funcionalidades, correção de bugs e testes.
+
+`Java` `Spring` `React` `TypeScript` `PostgreSQL` `Maven`
+
+### Motopel Honda — Software Developer
+
+Desenvolvimento de aplicações e soluções web com foco em automação, interfaces e sistemas internos.
+
+`Python` `React` `Angular` `JavaScript`
+
+---
+
+## What I focus on
+
+- Desenvolvimento de APIs e integrações
+- Aplicações web Full Stack
+- Automação de processos
+- Qualidade de código e testes
+- Performance e manutenção de sistemas
+
+---
+
 <div align="center">
-
-<img height="165"
-  src="https://github-readme-stats.vercel.app/api?username=vicx074&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-/>
-<img height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicx074&layout=compact&hide_border=true&theme=transparent"
-/>
-</div>
-
-> contributions
-<div align="center">
-
-<img
-  src="https://github.com/vicx074/vicx074/blob/output/github-contribution-grid-snake.svg"
-  width="100%"
-/>
-</div>
-
-<div align="center">
-
-Let's build something.
-<a href="mailto:victororg22@gmail.com">Email</a>
- • 
-<a href="https://www.linkedin.com/in/victoreduardopereiramorais/">LinkedIn</a>
-
-
-
-<img
-  src="https://komarev.com/ghpvc/?username=vicx074&style=flat-square&color=grey&label=Profile+views"
-/>
+  <sub>Building reliable software, learning every day.</sub>
 </div>
