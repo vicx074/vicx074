@@ -1,9 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+GeoSapiens;Python+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Java;APIs%2C+sistemas+internos+e+automa%C3%A7%C3%B5es;Transformando+caf%C3%A9+em+deploy+%E2%98%95)](https://git.io/typing-svg)
+<img src="./banner.png" alt="Victor Eduardo — Full Stack Developer" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoreduardopereiramorais/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:victororg22@gmail.com)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=%24+stack+--main+%E2%86%92+Python+%E2%80%A2+React+%E2%80%A2+TypeScript;%24+stack+--now+%E2%86%92+Java+%E2%80%A2+Spring+%E2%80%A2+React;%24+status+%E2%86%92+aberto+a+novas+conversas+%F0%9F%9A%80;%24+fuel+%E2%86%92+caf%C3%A9+%E2%98%95)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/victoreduardopereiramorais/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:victororg22@gmail.com)
 
 </div>
 
@@ -128,6 +132,7 @@ victor@github:~$ exit
 logout — obrigado pela visita! bora conversar? 👇
 ```
 
-[LinkedIn](https://www.linkedin.com/in/victoreduardopereiramorais/) · [Email](mailto:victororg22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/victoreduardopereiramorais/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:victororg22@gmail.com)
 
 </div>
