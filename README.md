@@ -17,26 +17,110 @@
 
 ---
 
-## `> identity`
+## `~/profile.json`
 
-> **Full Stack Developer @ GeoSapiens**  
-> Python-first background, building web applications, APIs, automations and internal tools.
+```json
+{
+  "name": "Victor Eduardo",
+  "role": "Full Stack Developer",
+  "company": "GeoSapiens",
+  "education": "Sistemas de Informação @ IFBA",
 
-<p>
-  <img src="https://img.shields.io/badge/MAIN-Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/FRONT-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/LANGUAGE-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/DATA-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
-</p>
+  "strongest": [
+    "Python",
+    "React",
+    "TypeScript",
+    "PostgreSQL"
+  ],
 
-```ts
-const me = {
-  strongest: ["Python", "React", "TypeScript", "PostgreSQL"],
-  building: ["Web Apps", "REST APIs", "Automations", "Internal Tools"],
-  now: ["Java", "Spring", "React"],
-  mindset: "ship → learn → improve"
-};
+  "backend": [
+    "FastAPI",
+    "Flask",
+    "Django",
+    "Node.js"
+  ],
+
+  "currentlyWorkingWith": [
+    "Java",
+    "Spring",
+    "React",
+    "Maven"
+  ],
+
+  "iLikeBuilding": [
+    "Web applications",
+    "REST APIs",
+    "Automations",
+    "Internal tools"
+  ]
+}
 ```
+
+---
+
+## `git log --career --graph`
+
+```mermaid
+flowchart LR
+    A["🎨 2024<br/><b>CEPEDI</b><br/>Front-End + UX/UI"]
+    B["🏎️ 2025 → 2026<br/><b>Pirelli</b><br/>Front-End + Data"]
+    C["🏍️ 2026<br/><b>Motopel Honda</b><br/>Software Developer"]
+    D["🚀 2026 → now<br/><b>GeoSapiens</b><br/>Full Stack Developer"]
+
+    A --> B --> C --> D
+```
+
+<details open>
+<summary><b>🚀 GeoSapiens — Full Stack Developer</b></summary>
+
+<br/>
+
+Desenvolvimento e manutenção de aplicações web atuando entre **frontend e backend**, com foco em implementação de funcionalidades, correção de bugs, testes e manutenção de sistemas.
+
+`Java` `Spring` `React` `TypeScript` `PostgreSQL` `Maven`
+
+</details>
+
+<details>
+<summary><b>🏍️ Motopel Honda — Software Developer</b></summary>
+
+<br/>
+
+Desenvolvimento de aplicações e soluções web voltadas para **automação, interfaces e sistemas internos**.
+
+`Python` `React` `Angular` `JavaScript`
+
+</details>
+
+<details>
+<summary><b>🏎️ Pirelli — Front-End Developer | Data Analyst Intern</b> · abr. 2025 → mar. 2026</summary>
+
+<br/>
+
+Atuação no desenvolvimento de aplicações web e soluções orientadas a dados para otimização de processos operacionais e administrativos.
+
+- Desenvolvimento de aplicações web do zero com Python, Flask, React, Angular e PostgreSQL
+- Extração, transformação e visualização de dados industriais com Python, Pandas e PostgreSQL
+- Criação de dashboards e relatórios estratégicos
+- Manutenção e refatoração de sistemas internos
+- Prototipação de interfaces e fluxos no Figma
+- Participação em ambiente ágil com Scrum
+- Apoio e treinamento técnico de novos estagiários
+
+`Python` `Pandas` `Flask` `React` `Angular` `TypeScript` `PostgreSQL` `Figma` `Qlik Sense` `Scrum`
+
+</details>
+
+<details>
+<summary><b>🎨 CEPEDI — Residência em Software | Front-End & UX/UI</b> · jul. 2024 → dez. 2024</summary>
+
+<br/>
+
+Residência em desenvolvimento de software com foco em **Frontend, UX/UI e construção de interfaces**, trabalhando experiência do usuário, prototipação e desenvolvimento de soluções digitais.
+
+`Frontend` `UX/UI` `Figma` `JavaScript` `React`
+
+</details>
 
 ---
 
