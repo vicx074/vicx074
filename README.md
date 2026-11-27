@@ -1,14 +1,4 @@
-<div align="center">
 
-<img src="./banner.png" alt="Victor Eduardo — Full Stack Developer" width="100%" />
-
-<br/>
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/victoreduardopereiramorais/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:victororg22@gmail.com)
-
-</div>
 
 ```console
 victor@github:~$ ./boot.sh
